@@ -57,6 +57,8 @@
 			isa = PBXGroup;
 			children = (
 				83CF53AB20078A2600537F78 /* AppDelegate.swift */,
+				E825849420088F05005C55D8 /* Stuart.png */,
+				B060A04E2008913B003F7E2D /* apple.jpeg */,
 				83CF53AD20078A2600537F78 /* ViewController.swift */,
 				EB22EC5D20088E3A00E0F34E /* 1.jpeg */,
 				83CF53AF20078A2600537F78 /* Main.storyboard */,
@@ -126,8 +128,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E825849520088F05005C55D8 /* Stuart.png in Resources */,
 				83CF53B620078A2600537F78 /* LaunchScreen.storyboard in Resources */,
 				83CF53B320078A2600537F78 /* Assets.xcassets in Resources */,
+				B060A04F2008913B003F7E2D /* apple.jpeg in Resources */,
 				83CF53B120078A2600537F78 /* Main.storyboard in Resources */,
 				EB22EC5E20088E3A00E0F34E /* 1.jpeg in Resources */,
 			);
