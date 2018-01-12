@@ -12,6 +12,7 @@
 		83CF53B120078A2600537F78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83CF53AF20078A2600537F78 /* Main.storyboard */; };
 		83CF53B320078A2600537F78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83CF53B220078A2600537F78 /* Assets.xcassets */; };
 		83CF53B620078A2600537F78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83CF53B420078A2600537F78 /* LaunchScreen.storyboard */; };
+		E825849520088F05005C55D8 /* Stuart.png in Resources */ = {isa = PBXBuildFile; fileRef = E825849420088F05005C55D8 /* Stuart.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		83CF53B220078A2600537F78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83CF53B520078A2600537F78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83CF53B720078A2600537F78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E825849420088F05005C55D8 /* Stuart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Stuart.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				83CF53AB20078A2600537F78 /* AppDelegate.swift */,
+				E825849420088F05005C55D8 /* Stuart.png */,
 				83CF53AD20078A2600537F78 /* ViewController.swift */,
 				83CF53AF20078A2600537F78 /* Main.storyboard */,
 				83CF53B220078A2600537F78 /* Assets.xcassets */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E825849520088F05005C55D8 /* Stuart.png in Resources */,
 				83CF53B620078A2600537F78 /* LaunchScreen.storyboard in Resources */,
 				83CF53B320078A2600537F78 /* Assets.xcassets in Resources */,
 				83CF53B120078A2600537F78 /* Main.storyboard in Resources */,
@@ -301,6 +305,7 @@
 				83CF53BC20078A2600537F78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
