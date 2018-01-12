@@ -12,6 +12,7 @@
 		83CF53B120078A2600537F78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83CF53AF20078A2600537F78 /* Main.storyboard */; };
 		83CF53B320078A2600537F78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83CF53B220078A2600537F78 /* Assets.xcassets */; };
 		83CF53B620078A2600537F78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83CF53B420078A2600537F78 /* LaunchScreen.storyboard */; };
+		B060A04F2008913B003F7E2D /* apple.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B060A04E2008913B003F7E2D /* apple.jpeg */; };
 		E825849520088F05005C55D8 /* Stuart.png in Resources */ = {isa = PBXBuildFile; fileRef = E825849420088F05005C55D8 /* Stuart.png */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		83CF53B220078A2600537F78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83CF53B520078A2600537F78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83CF53B720078A2600537F78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B060A04E2008913B003F7E2D /* apple.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple.jpeg; sourceTree = "<group>"; };
 		E825849420088F05005C55D8 /* Stuart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Stuart.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,6 +60,7 @@
 			children = (
 				83CF53AB20078A2600537F78 /* AppDelegate.swift */,
 				E825849420088F05005C55D8 /* Stuart.png */,
+				B060A04E2008913B003F7E2D /* apple.jpeg */,
 				83CF53AD20078A2600537F78 /* ViewController.swift */,
 				83CF53AF20078A2600537F78 /* Main.storyboard */,
 				83CF53B220078A2600537F78 /* Assets.xcassets */,
@@ -129,6 +132,7 @@
 				E825849520088F05005C55D8 /* Stuart.png in Resources */,
 				83CF53B620078A2600537F78 /* LaunchScreen.storyboard in Resources */,
 				83CF53B320078A2600537F78 /* Assets.xcassets in Resources */,
+				B060A04F2008913B003F7E2D /* apple.jpeg in Resources */,
 				83CF53B120078A2600537F78 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
